@@ -1,0 +1,25 @@
+Cleaning messy dataset 
+
+1.Duplicate rows
+
+Problem: Some employee records were repeated (same Employee_ID), which can lead to incorrect results.
+Fix: Removed Duplicate rows which has same Employee_ID.
+
+2.Wrong Data Types
+
+Problem: Some columns had incorrect data types
+Age was text instead of number
+Salary was in text format
+Join Date was not in date format
+
+Fix: Changed datatype of each column to correct format.
+
+3.Inconsistent Text
+
+Problem: Phone column has negative numbers
+Fix: Removed '-'sign using replace value
+
+4.Blank Rows
+
+Problem: The dataset contained rows where all values were empty (null)
+Fix: Removed blank rows and find average values and filled on missing values
