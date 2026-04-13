@@ -1,0 +1,30 @@
+Day 1
+DATA IN MY LIFE
+
+1.Phone screen time
+   Who collects this data: Mobile 
+   Decision it helps make: Reduce usage and improve productivity by doing other activities.
+
+2.Water Intake
+   Who collects this data: Myself
+   Decision it helps make: To stay hydrated and improve health 
+
+3.Daily Transportation
+   Who collects this data: Public transport authorities, navigation apps
+   Decision it helps make: Choose the best or faster route and plan travel time efficiently.
+
+4.Sleep duration
+   Who collects this data: Smartwatches ,sleep tracking apps
+   Decision it helps make: Adjust bedtime routine to improve sleep quality for a better life.
+
+5.Social media usage:
+   Who collects this data: Instagram,Youtube
+   Decision it helps make: To watch informative contents and improve knowledge/skills
+
+Personal Question I'd Love to Answer using Data:
+How my sleep quality and productivity influenced by my daily screen time over a month
+
+
+
+
+
