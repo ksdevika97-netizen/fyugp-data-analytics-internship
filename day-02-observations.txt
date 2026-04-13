@@ -1,0 +1,20 @@
+1.Number of rows:50
+
+2.Number of columns:11
+
+3.Meaning of each column:
+Order ID - Unique ID for each order
+Date - Date of sales for each order
+City - City where sales happened 
+State - State of that city
+Product - The name of the item that was sold
+Category - Type of the product
+Salesperson - Person who made the sale
+Units - Number of items sold
+UnitPrice - Price of one single item
+Revenue - Total money earned from one order
+
+4.Observations(One thing that surprised):
+Same product have high sales volume but lower total revenue, which shows that price plays an important role in sales
+
+
