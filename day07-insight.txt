@@ -1,0 +1,4 @@
+After using a slicer to filter by department (Sales,Finance, HR, and IT), I noticed that salaries are different in each department.
+When all data was shown together, the salaries looked almost the same across job roles. But after filtering, it became clear that IT has the highest total salary (around 20M), while HR has a lower total (around 17M).
+The slicer also helped me see how salary changes with experience in each department. Some departments show more changes than others.
+Overall, filtering made it easier to understand which department pays more and how salaries vary across roles.
