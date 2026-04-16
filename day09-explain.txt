@@ -1,0 +1,1 @@
+The total salary shows the overall amount across all departments, while the IT salary shows only the amount for the IT department, helping us understand its contribution to the total amount of salary
