@@ -1,0 +1,21 @@
+1. Removed Unnecessary Visuals
+What I did:
+•Removed extra charts like pie chart, table, duplicate visuals
+Why it helps:
+•Reduces confusion and information overload
+•Helps users focus only on important data
+
+2. Used Consistent Colours
+What I did:
+•Used only 2–3 colors (dark blue + white theme)
+Why it helps:
+•Too many colors distract users
+•Consistent colors improve readability and clarity
+
+3. Added Proper Alignment & White Space
+What I did:
+•Aligned all visuals neatly
+•Added spacing between visuals
+Why it helps:
+•Makes dashboard easy to scan
+•Improves user experience and readability
