@@ -1,0 +1,1 @@
+This dashboard shows ₹2.3M in sales and ₹286.4K in profit from 9,994 orders. The profit margin is 12%. Technology products sell the most and make the most profit. Some states and products sell a lot but don’t make much money. The dashboard highlights areas that need focus to improve profit.
