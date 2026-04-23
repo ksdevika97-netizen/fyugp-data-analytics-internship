@@ -1,1 +1,0 @@
-The bar chart is clearer than the pie chart because it makes it easier to compare values using bar lengths. In the pie chart, the slices are similar in size, which makes it difficult to see small differences between cities. Therefore, the bar chart is more effective for accurate comparison in this dataset.
